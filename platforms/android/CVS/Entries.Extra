@@ -1,0 +1,17 @@
+D/.gradle////////
+D/assets////////
+D/build////////
+D/cordova////////
+D/CordovaLib////////
+D/gradle////////
+D/libs////////
+D/platform_www////////
+D/res////////
+D/src////////
+/.gitignore////*////
+/AndroidManifest.xml////*////
+/android.json////*////
+/build.gradle////*////
+/gradlew.bat////*////
+/project.properties////*////
+/settings.gradle////*////
